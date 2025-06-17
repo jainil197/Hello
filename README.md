@@ -1,2 +1,2 @@
-# Hello   this is only for funnnnnnn
+# Hello
 Learning Repository 
